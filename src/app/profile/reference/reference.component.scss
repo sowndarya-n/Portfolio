@@ -1,0 +1,36 @@
+.cc-reference p{
+    font-weight: 1000px;
+    color: black;
+    font-style: bold;
+  }
+
+  .category p{
+      width: 10%
+  }
+  .customBottom
+  {
+    position: relative;
+  }
+  .containerCustomWidth
+  {
+    width: 65%;
+  }
+  .customBorder
+  {
+    position: relative;
+    padding: 0;
+    border-radius: 10px;
+  }
+  .customCarouselCard
+  {
+    height: 300px;
+  }
+  .customCarouselCard .carousel-item
+  {
+    padding: 40px;
+    text-align: justify;
+  }
+  .carousel-indicators li
+  {
+    cursor: pointer;
+  }

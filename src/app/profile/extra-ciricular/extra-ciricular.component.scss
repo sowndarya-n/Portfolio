@@ -1,0 +1,34 @@
+.cc-porfolio-image {
+  height: 225px;
+  margin-bottom: 1em;
+}
+.cc-porfolio-image  figure,
+.cc-porfolio-image  img{
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+.customRow
+{
+  justify-content: center;
+  align-items: center;
+}
+.customCard
+{
+  padding: 15px;
+  border-radius: 10px;
+}
+.orderdActivities li
+{
+  margin-top: 15px;
+  padding-bottom: 10px;
+  
+}
+// .orderLi
+// {
+// border-bottom: 1px solid #6c6c6c;
+// }
+// .orderLiLast 
+// {
+// border-bottom: none;
+// }
